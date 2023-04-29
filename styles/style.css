@@ -30,13 +30,13 @@
 }
 .logo {
   width: 228px;
-  height: 32px;  
+  height: 32px;
   z-index: 3;
 }
 .header__title {
   width: 730px;
   height: 96px;
-  font-size: 102px;  
+  font-size: 102px;
   font-weight: 600;
   align-self: center;
   z-index: 3;
@@ -80,8 +80,8 @@
 }
 .two-columns {
   display: flex;
-  justify-content: space-between;  
-  width: 80%; 
+  justify-content: space-between;
+  width: 80%;
   min-width: 784px;
   margin: 0 auto;   
 }
