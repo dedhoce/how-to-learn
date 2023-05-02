@@ -85,7 +85,6 @@
   font-size: 18px;
   width: 175px;
   font-weight: normal;
-  margin: 0;
 }
 .two-columns__main-text {
   display: flex;
@@ -213,8 +212,6 @@
   text-decoration: none;
 }
 .kaufman {
-  margin: 0;
-  padding: 0;
   background-color: #1f1f1f;
   margin: 0 auto;
   overflow: hidden;
