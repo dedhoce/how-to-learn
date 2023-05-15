@@ -1,0 +1,13 @@
+.video__iframe {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  transition: 0.5s linear;
+  width: 515px;
+  height: 316px;
+  border: none;
+}
+.video__iframe:hover {
+  opacity: 0.4;
+  transition: 0.35s linear;
+}
